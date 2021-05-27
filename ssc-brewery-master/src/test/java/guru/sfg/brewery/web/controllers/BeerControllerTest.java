@@ -52,6 +52,7 @@ class BeerControllerTest {
 
     @InjectMocks
     BeerController controller;
+
     List<Beer> beerList;
     UUID uuid;
     Beer beer;
